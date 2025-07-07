@@ -1,2 +1,2 @@
-# SC-Cat-Pakour
-A game for pakour.
+# SC-Cat-Parkour
+A game for parkour.
